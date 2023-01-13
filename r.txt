@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-fafababa
-=======
-fafa
-ghgh
->>>>>>> Stashed changes
+1fafa
